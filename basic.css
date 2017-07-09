@@ -1,0 +1,28 @@
+#screen{
+
+
+}
+#header{
+  font-size: 50px;
+  margin-top: 15%;
+}
+#mainmenu {
+  font-size: 25px;
+  margin-top: 10%;
+}
+#mainmenu p{
+  font-size: 25px;
+}
+#mainmenu button{
+
+}
+#menu-atas{
+
+}
+#menu-bawah{
+  margin-top: 5%;
+}
+.button-centering{
+  display: flex;
+  justify-content: center;
+}
